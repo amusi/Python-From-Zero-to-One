@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="019a7d49-0cf8-4c56-bbac-877982a404c3" name="Default" comment="" />
+    <list default="true" id="019a7d49-0cf8-4c56-bbac-877982a404c3" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课时33 异常处理: 你不可能总是对的2/review000.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课时33 异常处理: 你不可能总是对的2/review002.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课时34 丰富的else语句及简单的with语句/program000.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课时34 丰富的else语句及简单的with语句/program001.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课时34 丰富的else语句及简单的with语句/program002_with.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课时34 丰富的else语句及简单的with语句/review000_with.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课时35　图形用户界面入门: EasyGui/program000_EasyGui.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课时35　图形用户界面入门: EasyGui/review000_guess.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/零基础入门学习Python.docx" afterPath="$PROJECT_DIR$/零基础入门学习Python.docx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/课时31 永久存储: 腌制一缸美味的泡菜/review000.py" afterPath="$PROJECT_DIR$/课时31 永久存储: 腌制一缸美味的泡菜/review000.py" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,73 +23,48 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/python$Program001_Review3.coverage" NAME="Program001_Review3 Coverage Results" MODIFIED="1509179846578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/课时19 函数: 我的地盘我做主" />
+    <SUITE FILE_PATH="coverage/python$program000_EasyGui.coverage" NAME="program000_EasyGui Coverage Results" MODIFIED="1510406942374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/课时35　图形用户界面入门: EasyGui" />
     <SUITE FILE_PATH="coverage/python$builtins.coverage" NAME="builtins Coverage Results" MODIFIED="1509727675711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/.PyCharm2017.2/system/python_stubs/174233916" />
+    <SUITE FILE_PATH="coverage/python$review000_guess.coverage" NAME="review000_guess Coverage Results" MODIFIED="1510408514082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/课时35　图形用户界面入门: EasyGui" />
     <SUITE FILE_PATH="coverage/python$review_2.coverage" NAME="review_2 Coverage Results" MODIFIED="1509629229925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/课时29 文件: 一个任务" />
     <SUITE FILE_PATH="coverage/python$review_4.coverage" NAME="review_4 Coverage Results" MODIFIED="1509630575991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/课时29 文件: 一个任务" />
     <SUITE FILE_PATH="coverage/python$review001.coverage" NAME="review001 Coverage Results" MODIFIED="1509727666472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/课时30 os模块" />
-    <SUITE FILE_PATH="coverage/python$review000__1_.coverage" NAME="review000 (1) Coverage Results" MODIFIED="1509981164160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/课时31 永久存储: 腌制一缸美味的泡菜" />
     <SUITE FILE_PATH="coverage/python$Program000_.coverage" NAME="Program000_汉诺塔 Coverage Results" MODIFIED="1509179892847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/课时24 递归汉诺塔" />
-    <SUITE FILE_PATH="coverage/python$review000.coverage" NAME="review000 Coverage Results" MODIFIED="1509726620179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/课时30 os模块" />
-    <SUITE FILE_PATH="coverage/python$Program000_review.coverage" NAME="Program000_review Coverage Results" MODIFIED="1509378851716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/课时26 字典: 当索引不好用时" />
+    <SUITE FILE_PATH="coverage/python$review000.coverage" NAME="review000 Coverage Results" MODIFIED="1510397593908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/课时33 异常处理: 你不可能总是对的2" />
     <SUITE FILE_PATH="coverage/python$review004.coverage" NAME="review004 Coverage Results" MODIFIED="1509789350102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/课时30 os模块" />
     <SUITE FILE_PATH="coverage/python$review_3.coverage" NAME="review_3 Coverage Results" MODIFIED="1509629871141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/课时29 文件: 一个任务" />
+    <SUITE FILE_PATH="coverage/python$Program001_Review3.coverage" NAME="Program001_Review3 Coverage Results" MODIFIED="1509179846578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/课时19 函数: 我的地盘我做主" />
+    <SUITE FILE_PATH="coverage/python$review000__1_.coverage" NAME="review000 (1) Coverage Results" MODIFIED="1510397439183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/课时31 永久存储: 腌制一缸美味的泡菜" />
+    <SUITE FILE_PATH="coverage/python$Program000_review.coverage" NAME="Program000_review Coverage Results" MODIFIED="1509378851716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/课时26 字典: 当索引不好用时" />
+    <SUITE FILE_PATH="coverage/python$review002__1_.coverage" NAME="review002 (1) Coverage Results" MODIFIED="1510398364176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/课时33 异常处理: 你不可能总是对的2" />
     <SUITE FILE_PATH="coverage/python$review002.coverage" NAME="review002 Coverage Results" MODIFIED="1509778087699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/课时30 os模块" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Program001_Review3.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/课时19 函数: 我的地盘我做主/Program001_Review3.py">
+      <file leaf-file-name="review000_with.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/课时34 丰富的else语句及简单的with语句/review000_with.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="15" column="47" lean-forward="false" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
+            <state relative-caret-position="249">
+              <caret line="41" column="30" lean-forward="false" selection-start-line="41" selection-start-column="30" selection-end-line="41" selection-end-column="30" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="review001.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/课时30 os模块/review001.py">
+      <file leaf-file-name="program000_EasyGui.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/课时35　图形用户界面入门: EasyGui/program000_EasyGui.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="6" column="15" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="17" selection-end-column="25" />
-              <folding />
+            <state relative-caret-position="342">
+              <caret line="19" column="43" lean-forward="true" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="43" />
+              <folding>
+                <element signature="e#95#115#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="review002.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/课时30 os模块/review002.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="32" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="review003.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/课时30 os模块/review003.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="review004.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/课时30 os模块/review004.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="15" column="19" lean-forward="false" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="record.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/课时31 永久存储: 腌制一缸美味的泡菜/record.txt">
+      <file leaf-file-name="Program3_calc.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/课时2 用Python设计第一个游戏/Program3_calc.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -85,11 +73,73 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="review000.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/课时31 永久存储: 腌制一缸美味的泡菜/review000.py">
+      <file leaf-file-name="Program2_Hello.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/课时2 用Python设计第一个游戏/Program2_Hello.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="1" lean-forward="false" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Program1_BIF.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/课时2 用Python设计第一个游戏/Program1_BIF.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Program0.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/课时2 用Python设计第一个游戏/Program0.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Program000.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/课时4 改进我门的小游戏/Program000.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="11" column="20" lean-forward="true" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="review000_guess.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/课时35　图形用户界面入门: EasyGui/review000_guess.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="16" column="23" lean-forward="true" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+              <folding>
+                <element signature="e#118#138#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Program001.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/课时4 改进我门的小游戏/Program001.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Program002.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/课时4 改进我门的小游戏/Program002.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -103,6 +153,9 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -120,6 +173,14 @@
         <option value="$PROJECT_DIR$/课时30 os模块/review003.py" />
         <option value="$PROJECT_DIR$/课时30 os模块/review004.py" />
         <option value="$PROJECT_DIR$/课时31 永久存储: 腌制一缸美味的泡菜/review000.py" />
+        <option value="$PROJECT_DIR$/课时33 异常处理: 你不可能总是对的2/review000.py" />
+        <option value="$PROJECT_DIR$/课时33 异常处理: 你不可能总是对的2/review002.py" />
+        <option value="$PROJECT_DIR$/课时34 丰富的else语句及简单的with语句/program000.py" />
+        <option value="$PROJECT_DIR$/课时34 丰富的else语句及简单的with语句/program001.py" />
+        <option value="$PROJECT_DIR$/课时34 丰富的else语句及简单的with语句/program002_with.py" />
+        <option value="$PROJECT_DIR$/课时34 丰富的else语句及简单的with语句/review000_with.py" />
+        <option value="$PROJECT_DIR$/课时35　图形用户界面入门: EasyGui/program000_EasyGui.py" />
+        <option value="$PROJECT_DIR$/课时35　图形用户界面入门: EasyGui/review000_guess.py" />
       </list>
     </option>
   </component>
@@ -129,10 +190,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="4">
-    <option name="y" value="27" />
-    <option name="width" value="960" />
-    <option name="height" value="1053" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="751" />
+    <option name="y" value="109" />
+    <option name="width" value="928" />
+    <option name="height" value="1017" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -149,6 +211,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -160,24 +223,38 @@
             <path>
               <item name="零基础入门学python" type="b2602c69:ProjectViewProjectNode" />
               <item name="零基础入门学python" type="462c0819:PsiDirectoryNode" />
+              <item name="课时3 小插曲之变量和字符串" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="零基础入门学python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="零基础入门学python" type="462c0819:PsiDirectoryNode" />
+              <item name="课时4 改进我门的小游戏" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="零基础入门学python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="零基础入门学python" type="462c0819:PsiDirectoryNode" />
               <item name="课时26 字典: 当索引不好用时" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="零基础入门学python" type="b2602c69:ProjectViewProjectNode" />
               <item name="零基础入门学python" type="462c0819:PsiDirectoryNode" />
-              <item name="课时31 永久存储: 腌制一缸美味的泡菜" type="462c0819:PsiDirectoryNode" />
+              <item name="课时34 丰富的else语句及简单的with语句" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="零基础入门学python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="零基础入门学python" type="462c0819:PsiDirectoryNode" />
+              <item name="课时35　图形用户界面入门: EasyGui" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/课时30 os模块" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -191,21 +268,21 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.review000 (1)">
-    <configuration name="builtins" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.review000_guess">
+    <configuration name="program000_EasyGui" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/.PyCharm2017.2/system/python_stubs/174233916" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/课时35　图形用户界面入门: EasyGui" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="零基础入门学python" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$USER_HOME$/.PyCharm2017.2/system/python_stubs/174233916/builtins.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/课时35　图形用户界面入门: EasyGui/program000_EasyGui.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -228,74 +305,74 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="review001" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="review000" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/课时30 os模块" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/课时33 异常处理: 你不可能总是对的2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="零基础入门学python" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/课时30 os模块/review001.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/课时33 异常处理: 你不可能总是对的2/review000.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="review002" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="review000_guess" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/课时30 os模块" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/课时35　图形用户界面入门: EasyGui" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="零基础入门学python" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/课时30 os模块/review002.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/课时35　图形用户界面入门: EasyGui/review000_guess.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="review004" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="review002 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/课时30 os模块" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/课时33 异常处理: 你不可能总是对的2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="零基础入门学python" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/课时30 os模块/review004.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/课时33 异常处理: 你不可能总是对的2/review002.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.review001" />
-      <item index="1" class="java.lang.String" itemvalue="Python.builtins" />
-      <item index="2" class="java.lang.String" itemvalue="Python.review002" />
-      <item index="3" class="java.lang.String" itemvalue="Python.review004" />
-      <item index="4" class="java.lang.String" itemvalue="Python.review000 (1)" />
+      <item index="0" class="java.lang.String" itemvalue="Python.review000 (1)" />
+      <item index="1" class="java.lang.String" itemvalue="Python.review000" />
+      <item index="2" class="java.lang.String" itemvalue="Python.review002 (1)" />
+      <item index="3" class="java.lang.String" itemvalue="Python.program000_EasyGui" />
+      <item index="4" class="java.lang.String" itemvalue="Python.review000_guess" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.review000 (1)" />
-        <item index="1" class="java.lang.String" itemvalue="Python.review004" />
-        <item index="2" class="java.lang.String" itemvalue="Python.review002" />
-        <item index="3" class="java.lang.String" itemvalue="Python.builtins" />
-        <item index="4" class="java.lang.String" itemvalue="Python.review001" />
+        <item index="0" class="java.lang.String" itemvalue="Python.review000_guess" />
+        <item index="1" class="java.lang.String" itemvalue="Python.program000_EasyGui" />
+        <item index="2" class="java.lang.String" itemvalue="Python.review002 (1)" />
+        <item index="3" class="java.lang.String" itemvalue="Python.review000" />
+        <item index="4" class="java.lang.String" itemvalue="Python.review000 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -316,19 +393,19 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="27" width="960" height="1053" extended-state="4" />
+    <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21132076" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3241309" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3249476" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39937106" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -373,54 +450,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/课时19 函数: 我的地盘我做主/Program001_Review3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="47" lean-forward="false" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/课时30 os模块/review001.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="15" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="17" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/课时30 os模块/review002.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/课时30 os模块/review003.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/课时30 os模块/review004.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="19" lean-forward="false" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/课时31 永久存储: 腌制一缸美味的泡菜/record.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/课时31 永久存储: 腌制一缸美味的泡菜/review000.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -610,13 +639,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/174233916/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="2868" column="8" lean-forward="false" selection-start-line="2868" selection-start-column="8" selection-end-line="2868" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/课时30 os模块/review001.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
@@ -641,6 +663,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/课时19 函数: 我的地盘我做主/Program001_Review3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="15" column="47" lean-forward="false" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/课时30 os模块/review004.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -651,16 +681,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/课时31 永久存储: 腌制一缸美味的泡菜/record.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="360">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/课时19 函数: 我的地盘我做主/Program001_Review3.py">
+    <entry file="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/174233916/builtins.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="47" lean-forward="false" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
+        <state relative-caret-position="40">
+          <caret line="330" column="86" lean-forward="false" selection-start-line="330" selection-start-column="86" selection-end-line="330" selection-end-column="86" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/课时34 丰富的else语句及简单的with语句/program002_with.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/课时34 丰富的else语句及简单的with语句/program001.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -668,8 +714,132 @@
     <entry file="file://$PROJECT_DIR$/课时31 永久存储: 腌制一缸美味的泡菜/review000.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="1" lean-forward="false" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/课时33 异常处理: 你不可能总是对的2/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/课时33 异常处理: 你不可能总是对的2/review002.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/课时33 异常处理: 你不可能总是对的2/review001.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/课时33 异常处理: 你不可能总是对的2/review000.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/课时34 丰富的else语句及简单的with语句/program000.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" column="18" lean-forward="false" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/课时34 丰富的else语句及简单的with语句/review000_with.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="41" column="30" lean-forward="false" selection-start-line="41" selection-start-column="30" selection-end-line="41" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/课时2 用Python设计第一个游戏/Program3_calc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/课时2 用Python设计第一个游戏/Program2_Hello.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/课时2 用Python设计第一个游戏/Program1_BIF.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/课时2 用Python设计第一个游戏/Program0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/课时4 改进我门的小游戏/Program001.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/课时4 改进我门的小游戏/Program002.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/课时4 改进我门的小游戏/Program000.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="20" lean-forward="true" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/课时35　图形用户界面入门: EasyGui/program000_EasyGui.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" column="43" lean-forward="true" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="43" />
+          <folding>
+            <element signature="e#95#115#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/课时35　图形用户界面入门: EasyGui/review000_guess.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="23" lean-forward="true" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+          <folding>
+            <element signature="e#118#138#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

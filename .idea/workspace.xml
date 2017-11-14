@@ -2,18 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="019a7d49-0cf8-4c56-bbac-877982a404c3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课时33 异常处理: 你不可能总是对的2/review000.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课时33 异常处理: 你不可能总是对的2/review002.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课时34 丰富的else语句及简单的with语句/program000.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课时34 丰富的else语句及简单的with语句/program001.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课时34 丰富的else语句及简单的with语句/program002_with.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课时34 丰富的else语句及简单的with语句/review000_with.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课时35　图形用户界面入门: EasyGui/program000_EasyGui.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课时35　图形用户界面入门: EasyGui/review000_guess.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/零基础入门学习Python.docx" afterPath="$PROJECT_DIR$/零基础入门学习Python.docx" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/课时31 永久存储: 腌制一缸美味的泡菜/review000.py" afterPath="$PROJECT_DIR$/课时31 永久存储: 腌制一缸美味的泡菜/review000.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -40,106 +30,12 @@
     <SUITE FILE_PATH="coverage/python$review002.coverage" NAME="review002 Coverage Results" MODIFIED="1509778087699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/课时30 os模块" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="review000_with.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/课时34 丰富的else语句及简单的with语句/review000_with.py">
+    <leaf>
+      <file leaf-file-name="program000_class_object.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/课时036 类和对象: 给大家介绍对象/program000_class_object.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="249">
-              <caret line="41" column="30" lean-forward="false" selection-start-line="41" selection-start-column="30" selection-end-line="41" selection-end-column="30" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="program000_EasyGui.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/课时35　图形用户界面入门: EasyGui/program000_EasyGui.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="19" column="43" lean-forward="true" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="43" />
-              <folding>
-                <element signature="e#95#115#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Program3_calc.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/课时2 用Python设计第一个游戏/Program3_calc.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Program2_Hello.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/课时2 用Python设计第一个游戏/Program2_Hello.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Program1_BIF.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/课时2 用Python设计第一个游戏/Program1_BIF.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Program0.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/课时2 用Python设计第一个游戏/Program0.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Program000.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/课时4 改进我门的小游戏/Program000.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="11" column="20" lean-forward="true" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="review000_guess.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/课时35　图形用户界面入门: EasyGui/review000_guess.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="16" column="23" lean-forward="true" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
-              <folding>
-                <element signature="e#118#138#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Program001.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/课时4 改进我门的小游戏/Program001.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Program002.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/课时4 改进我门的小游戏/Program002.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="126">
+              <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -223,27 +119,7 @@
             <path>
               <item name="零基础入门学python" type="b2602c69:ProjectViewProjectNode" />
               <item name="零基础入门学python" type="462c0819:PsiDirectoryNode" />
-              <item name="课时3 小插曲之变量和字符串" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="零基础入门学python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="零基础入门学python" type="462c0819:PsiDirectoryNode" />
-              <item name="课时4 改进我门的小游戏" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="零基础入门学python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="零基础入门学python" type="462c0819:PsiDirectoryNode" />
-              <item name="课时26 字典: 当索引不好用时" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="零基础入门学python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="零基础入门学python" type="462c0819:PsiDirectoryNode" />
-              <item name="课时34 丰富的else语句及简单的with语句" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="零基础入门学python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="零基础入门学python" type="462c0819:PsiDirectoryNode" />
-              <item name="课时35　图形用户界面入门: EasyGui" type="462c0819:PsiDirectoryNode" />
+              <item name="课时036 类和对象: 给大家介绍对象" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -393,7 +269,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
+    <frame x="751" y="109" width="1857" height="1092" extended-state="6" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21132076" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -450,396 +326,67 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/课时31 永久存储: 腌制一缸美味的泡菜/review000.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="1" lean-forward="false" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/课时19 函数: 我的地盘我做主/Program001_Review3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="47" lean-forward="false" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/课时29 文件: 一个任务/review_2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="11" lean-forward="false" selection-start-line="0" selection-start-column="11" selection-end-line="0" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/课时29 文件: 一个任务/review_3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/课时29 文件: 一个任务/review_4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="30" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/课时19 函数: 我的地盘我做主/Program001_Review3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="47" lean-forward="false" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/课时29 文件: 一个任务/review_2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="11" lean-forward="false" selection-start-line="0" selection-start-column="11" selection-end-line="0" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/课时29 文件: 一个任务/review_3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/课时29 文件: 一个任务/review_4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="30" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/课时19 函数: 我的地盘我做主/Program001_Review3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="47" lean-forward="false" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/课时29 文件: 一个任务/review_2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="11" lean-forward="false" selection-start-line="0" selection-start-column="11" selection-end-line="0" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/课时29 文件: 一个任务/review_3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/课时29 文件: 一个任务/review_4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="30" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/课时19 函数: 我的地盘我做主/Program001_Review3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="47" lean-forward="false" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/课时24 递归汉诺塔/Program000_汉诺塔.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="22" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/课时26 字典: 当索引不好用时/Program000_review.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="46" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/课时19 函数: 我的地盘我做主/Program001_Review3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="47" lean-forward="true" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/课时24 递归汉诺塔/Program000_汉诺塔.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="22" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/课时19 函数: 我的地盘我做主/Program001_Review3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/课时24 递归汉诺塔/Program000_汉诺塔.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="22" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/课时26 字典: 当索引不好用时/Program000_review.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="46" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/课时29 文件: 一个任务/review_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/课时29 文件: 一个任务/review_2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="11" lean-forward="false" selection-start-line="0" selection-start-column="11" selection-end-line="0" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/课时29 文件: 一个任务/review_3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/课时29 文件: 一个任务/review_4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="30" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/课时30 os模块/review000.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="26" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/课时30 os模块/review001.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="15" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="17" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/课时30 os模块/review002.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/课时30 os模块/review003.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/课时19 函数: 我的地盘我做主/Program001_Review3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="15" column="47" lean-forward="false" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/课时30 os模块/review004.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="19" lean-forward="false" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/课时31 永久存储: 腌制一缸美味的泡菜/record.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/课时19 函数: 我的地盘我做主/Program001_Review3.py" />
+    <entry file="file://$PROJECT_DIR$/课时29 文件: 一个任务/review_2.py" />
+    <entry file="file://$PROJECT_DIR$/课时29 文件: 一个任务/review_3.py" />
+    <entry file="file://$PROJECT_DIR$/课时29 文件: 一个任务/review_4.py" />
+    <entry file="file://$PROJECT_DIR$/课时19 函数: 我的地盘我做主/Program001_Review3.py" />
+    <entry file="file://$PROJECT_DIR$/课时29 文件: 一个任务/review_2.py" />
+    <entry file="file://$PROJECT_DIR$/课时29 文件: 一个任务/review_3.py" />
+    <entry file="file://$PROJECT_DIR$/课时29 文件: 一个任务/review_4.py" />
+    <entry file="file://$PROJECT_DIR$/课时19 函数: 我的地盘我做主/Program001_Review3.py" />
+    <entry file="file://$PROJECT_DIR$/课时29 文件: 一个任务/review_2.py" />
+    <entry file="file://$PROJECT_DIR$/课时29 文件: 一个任务/review_3.py" />
+    <entry file="file://$PROJECT_DIR$/课时29 文件: 一个任务/review_4.py" />
+    <entry file="file://$PROJECT_DIR$/课时19 函数: 我的地盘我做主/Program001_Review3.py" />
+    <entry file="file://$PROJECT_DIR$/课时24 递归汉诺塔/Program000_汉诺塔.py" />
+    <entry file="file://$PROJECT_DIR$/课时26 字典: 当索引不好用时/Program000_review.py" />
+    <entry file="file://$PROJECT_DIR$/课时19 函数: 我的地盘我做主/Program001_Review3.py" />
+    <entry file="file://$PROJECT_DIR$/课时24 递归汉诺塔/Program000_汉诺塔.py" />
+    <entry file="file://$PROJECT_DIR$/课时19 函数: 我的地盘我做主/Program001_Review3.py" />
+    <entry file="file://$PROJECT_DIR$/课时24 递归汉诺塔/Program000_汉诺塔.py" />
+    <entry file="file://$PROJECT_DIR$/课时26 字典: 当索引不好用时/Program000_review.py" />
+    <entry file="file://$PROJECT_DIR$/课时29 文件: 一个任务/review_1.py" />
+    <entry file="file://$PROJECT_DIR$/课时29 文件: 一个任务/review_2.py" />
+    <entry file="file://$PROJECT_DIR$/课时29 文件: 一个任务/review_3.py" />
+    <entry file="file://$PROJECT_DIR$/课时29 文件: 一个任务/review_4.py" />
+    <entry file="file://$PROJECT_DIR$/课时30 os模块/review000.py" />
+    <entry file="file://$PROJECT_DIR$/课时30 os模块/review001.py" />
+    <entry file="file://$PROJECT_DIR$/课时30 os模块/review002.py" />
+    <entry file="file://$PROJECT_DIR$/课时30 os模块/review003.py" />
+    <entry file="file://$PROJECT_DIR$/课时19 函数: 我的地盘我做主/Program001_Review3.py" />
+    <entry file="file://$PROJECT_DIR$/课时30 os模块/review004.py" />
+    <entry file="file://$PROJECT_DIR$/课时31 永久存储: 腌制一缸美味的泡菜/record.txt" />
     <entry file="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/174233916/builtins.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="40">
           <caret line="330" column="86" lean-forward="false" selection-start-line="330" selection-start-column="86" selection-end-line="330" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/课时34 丰富的else语句及简单的with语句/program002_with.py" />
+    <entry file="file://$PROJECT_DIR$/课时34 丰富的else语句及简单的with语句/program001.py" />
+    <entry file="file://$PROJECT_DIR$/课时31 永久存储: 腌制一缸美味的泡菜/review000.py" />
+    <entry file="file://$PROJECT_DIR$/课时33 异常处理: 你不可能总是对的2/test.py" />
+    <entry file="file://$PROJECT_DIR$/课时33 异常处理: 你不可能总是对的2/review002.py" />
+    <entry file="file://$PROJECT_DIR$/课时33 异常处理: 你不可能总是对的2/review001.py" />
+    <entry file="file://$PROJECT_DIR$/课时33 异常处理: 你不可能总是对的2/review000.py" />
+    <entry file="file://$PROJECT_DIR$/课时34 丰富的else语句及简单的with语句/program000.py" />
+    <entry file="file://$PROJECT_DIR$/课时34 丰富的else语句及简单的with语句/review000_with.py" />
+    <entry file="file://$PROJECT_DIR$/课时2 用Python设计第一个游戏/Program3_calc.py" />
+    <entry file="file://$PROJECT_DIR$/课时2 用Python设计第一个游戏/Program2_Hello.py" />
+    <entry file="file://$PROJECT_DIR$/课时2 用Python设计第一个游戏/Program1_BIF.py" />
+    <entry file="file://$PROJECT_DIR$/课时2 用Python设计第一个游戏/Program0.py" />
+    <entry file="file://$PROJECT_DIR$/课时4 改进我门的小游戏/Program001.py" />
+    <entry file="file://$PROJECT_DIR$/课时4 改进我门的小游戏/Program002.py" />
+    <entry file="file://$PROJECT_DIR$/课时4 改进我门的小游戏/Program000.py" />
+    <entry file="file://$PROJECT_DIR$/课时35　图形用户界面入门: EasyGui/program000_EasyGui.py" />
+    <entry file="file://$PROJECT_DIR$/课时35　图形用户界面入门: EasyGui/review000_guess.py" />
+    <entry file="file://$PROJECT_DIR$/课时036 类和对象: 给大家介绍对象/program000_class_object.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/课时34 丰富的else语句及简单的with语句/program002_with.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/课时34 丰富的else语句及简单的with语句/program001.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/课时31 永久存储: 腌制一缸美味的泡菜/review000.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/课时33 异常处理: 你不可能总是对的2/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/课时33 异常处理: 你不可能总是对的2/review002.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/课时33 异常处理: 你不可能总是对的2/review001.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/课时33 异常处理: 你不可能总是对的2/review000.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/课时34 丰富的else语句及简单的with语句/program000.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="20" column="18" lean-forward="false" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/课时34 丰富的else语句及简单的with语句/review000_with.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="41" column="30" lean-forward="false" selection-start-line="41" selection-start-column="30" selection-end-line="41" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/课时2 用Python设计第一个游戏/Program3_calc.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/课时2 用Python设计第一个游戏/Program2_Hello.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/课时2 用Python设计第一个游戏/Program1_BIF.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/课时2 用Python设计第一个游戏/Program0.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/课时4 改进我门的小游戏/Program001.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/课时4 改进我门的小游戏/Program002.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/课时4 改进我门的小游戏/Program000.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="20" lean-forward="true" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/课时35　图形用户界面入门: EasyGui/program000_EasyGui.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="19" column="43" lean-forward="true" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="43" />
-          <folding>
-            <element signature="e#95#115#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/课时35　图形用户界面入门: EasyGui/review000_guess.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="23" lean-forward="true" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
-          <folding>
-            <element signature="e#118#138#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
